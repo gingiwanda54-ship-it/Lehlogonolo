@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Kidney Hub",
+  "description": "A comprehensive kidney health management platform featuring smart booking, medical records tracking, telehealth consultations, and personalized health progress visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
